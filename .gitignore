@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+.DS_Store
+data/
