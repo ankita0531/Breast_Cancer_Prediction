@@ -69,10 +69,11 @@ python main.py
 
 ## Results
 
-| Model | Accuracy | AUC-ROC | CV Accuracy (5-Fold) |
-|---|---|---|---|
-| Logistic Regression | 98.25% | 0.9977 | 97.14% ± 1.49% |
-| Random Forest | 97.37% | 0.9950 | 96.04% ± 2.04% |
+| Model               | Accuracy | Precision | Recall | F1-score |
+| ------------------- | -------- | --------- | ------ | -------- |
+| Logistic Regression | 96.49%   | 0.97      | 0.96   | 0.96     |
+| Random Forest       | 97.37%   | 0.98      | 0.97   | 0.97     |
+
 
 ---
 
@@ -109,7 +110,9 @@ Python · scikit-learn · pandas · NumPy · Matplotlib · Seaborn
 ## Author
 
 **Ankita Rout**
+
 B.Tech — Computer Science and Engineering
+
 Institute of Technical Education and Research, Siksha 'O' Anusandhan University.
 
 [LinkedIn](https://www.linkedin.com/in/ankita-rout0531/)
